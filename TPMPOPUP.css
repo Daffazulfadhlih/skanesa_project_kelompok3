@@ -1,0 +1,78 @@
+.delete-1-icon2,
+.image-4-icon {
+  position: absolute;
+  object-fit: cover;
+}
+.image-4-icon {
+  top: 0;
+  left: 0;
+  width: 1894.43px;
+  height: 530px;
+  opacity: 0.7;
+}
+.delete-1-icon2 {
+  top: 47px;
+  left: 1541px;
+  width: 39px;
+  height: 39px;
+}
+.teknik-permesinan1 {
+  position: absolute;
+  top: 265px;
+  left: 522px;
+  line-height: 20px;
+  text-transform: uppercase;
+  font-weight: 800;
+}
+.teknik-pemesinan-adalah {
+  margin: 0;
+}
+.cnc1 {
+  text-decoration: underline;
+}
+.cnc {
+  color: inherit;
+}
+.mengasah-alat-alat-potong-pen {
+  margin-bottom: 0;
+}
+.computer {
+  color: var(--font-inherit);
+}
+.mengoperasikan-mesin-mesin-pro {
+  margin: 0;
+  padding-left: var(--padding-8xl);
+}
+.teknik-pemesinan-adalah-container1 {
+  line-break: anywhere;
+  width: 100%;
+}
+.teknik-pemesinan-adalah-container {
+  position: absolute;
+  top: 643px;
+  left: 89px;
+  font-size: var(--font-inherit);
+  line-height: 20px;
+  text-transform: capitalize;
+  font-family: var(--font-inherit);
+  color: var(--font-inherit);
+  text-align: justify;
+  display: flex;
+  align-items: center;
+  width: 1262px;
+}
+.tpm-popup {
+  position: relative;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1721px;
+  height: 1440px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: right;
+  font-size: var(--font-size-45xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

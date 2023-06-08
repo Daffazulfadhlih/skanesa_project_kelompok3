@@ -1,0 +1,230 @@
+@keyframes fade-in {
+  0% {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+.delete-1-icon14 {
+  position: absolute;
+  top: 45px;
+  left: 1798px;
+  width: 39px;
+  height: 39px;
+  object-fit: cover;
+}
+.login-kalau-sudah {
+  position: absolute;
+  top: 1056px;
+  left: 668px;
+  line-height: 64px;
+  text-transform: capitalize;
+  color: #575757;
+}
+.send-button-child {
+  position: absolute;
+  top: 6.33px;
+  left: 0;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-chocolate);
+  width: 318px;
+  height: 68.34px;
+}
+.kirim,
+.send-button {
+  position: absolute;
+  height: 81px;
+}
+.kirim {
+  top: 0;
+  left: 114px;
+  line-height: 64px;
+  text-transform: capitalize;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 90px;
+}
+.send-button {
+  top: 970px;
+  left: 823px;
+  width: 318px;
+  color: var(--color-white);
+}
+.button {
+  position: absolute;
+  top: 5px;
+  left: 0;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-chocolate);
+  width: 246px;
+  height: 54px;
+}
+.text-upload {
+  position: absolute;
+  top: 0;
+  left: 81px;
+  line-height: 64px;
+  text-transform: capitalize;
+}
+.upload-button {
+  position: absolute;
+  top: 855px;
+  left: 1421px;
+  width: 246px;
+  height: 64px;
+  color: var(--color-white);
+}
+.masukkan-dokumen-pendaftaran {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 64px;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+.form-pendaftaran-upload {
+  position: absolute;
+  top: 10px;
+  left: 452px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-chocolate);
+  box-sizing: border-box;
+  width: 799px;
+  height: 54px;
+}
+.file-upload-data {
+  position: absolute;
+  top: 855px;
+  left: 130px;
+  width: 1251px;
+  height: 64px;
+}
+.form-nomor-telepon {
+  position: absolute;
+  top: 5px;
+  left: 447px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-chocolate);
+  box-sizing: border-box;
+  width: 799px;
+  height: 54px;
+}
+.nomor-telepon {
+  position: absolute;
+  top: 750px;
+  left: 135px;
+  width: 1246px;
+  height: 64px;
+}
+.form-asal-sekolah {
+  position: absolute;
+  top: 6px;
+  left: 447px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-chocolate);
+  box-sizing: border-box;
+  width: 799px;
+  height: 54px;
+}
+.asal-sekolah,
+.form-alamat,
+.tempat-tanggal-lahir {
+  position: absolute;
+  top: 644px;
+  left: 135px;
+  width: 1246px;
+  height: 64px;
+}
+.form-alamat,
+.tempat-tanggal-lahir {
+  top: 528px;
+}
+.form-alamat {
+  top: 14px;
+  left: 447px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-chocolate);
+  box-sizing: border-box;
+  width: 799px;
+  height: 54px;
+}
+.alamat,
+.form-pl {
+  position: absolute;
+  top: 409px;
+  left: 135px;
+  width: 1246px;
+  height: 68px;
+}
+.form-pl {
+  top: 5px;
+  left: 452px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-chocolate);
+  box-sizing: border-box;
+  width: 799px;
+  height: 54px;
+}
+.jenis-kelamin {
+  position: absolute;
+  top: 307px;
+  left: 130px;
+  width: 1251px;
+  height: 64px;
+}
+.form-nama-lengkap {
+  position: absolute;
+  top: 10px;
+  left: 447px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-chocolate);
+  box-sizing: border-box;
+  width: 799px;
+  height: 54px;
+}
+.nama-lengkap {
+  position: absolute;
+  top: 208px;
+  left: 135px;
+  width: 1246px;
+  height: 64px;
+}
+.ppdb-online {
+  margin: 0;
+}
+.text-header {
+  position: absolute;
+  top: 49px;
+  left: 791px;
+  font-size: 40px;
+  line-height: 40px;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.pendaftaran-ppdb-online {
+  position: relative;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1898px;
+  height: 1513px;
+  overflow: hidden;
+  opacity: 0;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.pendaftaran-ppdb-online.animate {
+  animation: 1s ease 0s 1 normal forwards fade-in;
+}

@@ -1,0 +1,62 @@
+.image-39-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1917px;
+  height: 518px;
+  object-fit: cover;
+}
+.misi-smkn-1 {
+  position: absolute;
+  top: 244px;
+  left: 558px;
+  line-height: 20px;
+  text-transform: uppercase;
+  font-weight: 800;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.5);
+}
+.menghasilkan-lulusan-yang6 {
+  margin-bottom: 0;
+}
+.menghasilkan-lulusan-yang-beri {
+  margin: 0;
+  padding-left: var(--padding-13xl);
+}
+.blank-line43 {
+  margin: 0;
+}
+.menghasilkan-lulusan-yang-container3 {
+  line-break: anywhere;
+  width: 100%;
+}
+.menghasilkan-lulusan-yang-container2 {
+  position: absolute;
+  top: 525px;
+  left: 251px;
+  font-size: var(--font-inherit);
+  line-height: 20px;
+  text-transform: capitalize;
+  font-weight: 500;
+  font-family: var(--font-inherit);
+  color: var(--color-black);
+  text-align: left;
+  display: flex;
+  align-items: center;
+  width: 1038px;
+  height: 428px;
+}
+.misi6 {
+  position: relative;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1687px;
+  height: 1050px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: right;
+  font-size: var(--font-size-45xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

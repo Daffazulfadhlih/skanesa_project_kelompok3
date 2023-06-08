@@ -1,0 +1,63 @@
+.image-40-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1932px;
+  height: 499px;
+  object-fit: cover;
+}
+.tujuan-smkn-1 {
+  position: absolute;
+  top: 250px;
+  left: 412px;
+  line-height: 20px;
+  text-transform: uppercase;
+  font-weight: 800;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.5);
+}
+.blank-line38 {
+  margin-block-start: 0;
+  margin-block-end: 10px;
+}
+.memberi-bekal-kepada {
+  margin-bottom: 2px;
+}
+.memberi-bekal-kepada-peserta-d {
+  margin: 0;
+  padding-left: var(--padding-13xl);
+}
+.mempersiapkan-peserta-didik-container1 {
+  line-break: anywhere;
+  width: 100%;
+}
+.mempersiapkan-peserta-didik-container {
+  position: absolute;
+  top: 532px;
+  left: 68px;
+  font-size: var(--font-inherit);
+  line-height: 20px;
+  text-transform: capitalize;
+  font-weight: 500;
+  font-family: var(--font-inherit);
+  color: var(--color-black);
+  text-align: justify;
+  display: flex;
+  align-items: center;
+  width: 1342px;
+  height: 659px;
+}
+.tujuan5 {
+  position: relative;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1687px;
+  height: 1440px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: right;
+  font-size: var(--font-size-45xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

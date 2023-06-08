@@ -1,0 +1,92 @@
+.visi2 {
+  font-weight: 700;
+}
+.mewujudkan-tenaga-profesional {
+  margin: 0;
+}
+.melaksanakan-sertifikasi-baik {
+  margin-bottom: 0;
+}
+.menjalin-kerjasama-dengan {
+  font-weight: 300;
+}
+.menyelenggarakan-pembelajaran {
+  margin: 0;
+  display: block;
+  padding-left: var(--padding-8xl);
+}
+.visi-mewujudkan-tenaga-container1 {
+  line-break: anywhere;
+  width: 100%;
+}
+.visi-mewujudkan-tenaga-container {
+  position: absolute;
+  top: 765px;
+  left: 69px;
+  line-height: 20px;
+  text-transform: capitalize;
+  display: flex;
+  align-items: center;
+  width: 1520px;
+}
+.delete-1-icon1,
+.image-11-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1721px;
+  height: 520px;
+  object-fit: cover;
+}
+.delete-1-icon1 {
+  top: 25px;
+  left: 1619px;
+  width: 39px;
+  height: 39px;
+}
+.teknik-komputer-dan1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 20px;
+  text-transform: uppercase;
+  font-weight: 800;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.5);
+}
+.header1 {
+  position: absolute;
+  top: 260px;
+  left: 300px;
+  width: 1122px;
+  height: 20px;
+  text-align: right;
+  font-size: var(--font-size-45xl);
+  color: var(--color-white);
+}
+.teknik-komputer-dan-container {
+  position: absolute;
+  top: 490px;
+  left: 69px;
+  font-size: var(--font-size-xl);
+  line-height: 20px;
+  text-transform: capitalize;
+  display: flex;
+  align-items: center;
+  width: 1325px;
+  height: 435px;
+}
+.tkj-popup {
+  position: relative;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1721px;
+  height: 1440px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: justify;
+  font-size: var(--font-inherit);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

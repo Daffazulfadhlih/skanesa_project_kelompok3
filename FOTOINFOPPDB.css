@@ -1,0 +1,16 @@
+.info-ppdb-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1131px;
+  height: 782px;
+  object-fit: cover;
+}
+.foto-info-ppdb {
+  position: relative;
+  width: 1131px;
+  height: 782px;
+  max-width: 90%;
+  max-height: 90%;
+  overflow: auto;
+}

@@ -1,0 +1,84 @@
+.teknik-kendaraan-ringan-container1 {
+  line-break: anywhere;
+  width: 100%;
+}
+.teknik-kendaraan-ringan-container {
+  position: absolute;
+  top: 570px;
+  left: 81px;
+  line-height: 20px;
+  text-transform: capitalize;
+  display: flex;
+  align-items: center;
+  width: 1262px;
+  height: 226px;
+}
+.tujuan {
+  font-family: var(--font-inter);
+}
+.tujuan-kompetensi-keahlian-tek {
+  margin: 0;
+}
+.memiliki-karakter-mampu-berko {
+  margin-bottom: 0;
+}
+.bidang-kompetensi-keahlian-tek {
+  margin: 0;
+  padding-left: var(--padding-8xl);
+}
+.tujuan-kompetensi-keahlian-container {
+  position: absolute;
+  top: 837px;
+  left: 81px;
+  font-size: var(--font-inherit);
+  line-height: 20px;
+  text-transform: capitalize;
+  display: flex;
+  align-items: center;
+  width: 1307px;
+  height: 189px;
+}
+.image-12-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1913px;
+  height: 538px;
+  object-fit: cover;
+  opacity: 0.7;
+}
+.teknik-kendaraan-ringan3 {
+  position: absolute;
+  top: 265px;
+  left: 396px;
+  font-size: var(--font-size-45xl);
+  line-height: 20px;
+  text-transform: uppercase;
+  font-weight: 800;
+  color: var(--color-white);
+  text-align: right;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.5);
+}
+.delete-2-icon {
+  position: absolute;
+  top: 50px;
+  left: 1559px;
+  width: 39px;
+  height: 39px;
+  object-fit: cover;
+}
+.tkr-popup {
+  position: relative;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1721px;
+  height: 1440px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: justify;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

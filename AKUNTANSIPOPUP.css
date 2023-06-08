@@ -1,0 +1,68 @@
+.ekuitas1 {
+  text-decoration: underline;
+}
+.ekuitas {
+  color: inherit;
+}
+.akuntansi-adalah-suatu-ilmu-ya {
+  margin: 0;
+}
+.akuntansi-adalah-suatu-container1 {
+  line-break: anywhere;
+  width: 100%;
+}
+.akuntansi-adalah-suatu-container {
+  position: absolute;
+  top: 623px;
+  left: 110px;
+  line-height: 20px;
+  text-transform: capitalize;
+  display: flex;
+  align-items: center;
+  width: 1262px;
+}
+.delete-1-icon4,
+.image-19-icon {
+  position: absolute;
+  object-fit: cover;
+}
+.image-19-icon {
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 542px;
+  opacity: 0.7;
+}
+.delete-1-icon4 {
+  top: 36px;
+  left: 1552px;
+  width: 39px;
+  height: 39px;
+}
+.akuntansi1 {
+  position: absolute;
+  top: 251px;
+  left: 670px;
+  font-size: var(--font-size-45xl);
+  line-height: 20px;
+  text-transform: uppercase;
+  font-weight: 800;
+  color: var(--color-white);
+  text-align: right;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.5);
+}
+.akuntansi-popup {
+  position: relative;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1721px;
+  height: 1440px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: justify;
+  font-size: var(--font-size-xl);
+  color: var(--font-inherit);
+  font-family: var(--font-inter);
+}

@@ -1,0 +1,76 @@
+.multimedia-adalah-penggunaan {
+  margin: 0;
+}
+.di-dunia-pendidikan1 {
+  text-decoration: underline;
+}
+.di-dunia-pendidikan {
+  color: inherit;
+}
+.multimedia-developer {
+  margin-bottom: 0;
+}
+.media-pembelajaran-game-virt {
+  margin: 0;
+  padding-left: var(--padding-8xl);
+}
+.multimedia-adalah-penggunaan-container1 {
+  line-break: anywhere;
+  width: 100%;
+}
+.multimedia-adalah-penggunaan-container {
+  position: absolute;
+  top: 623px;
+  left: 122px;
+  line-height: 20px;
+  text-transform: capitalize;
+  display: flex;
+  align-items: center;
+  width: 1262px;
+}
+.delete-1-icon6,
+.image-13-icon {
+  position: absolute;
+  object-fit: cover;
+}
+.image-13-icon {
+  top: 0;
+  left: 0;
+  width: 1898px;
+  height: 530px;
+  opacity: 0.7;
+}
+.delete-1-icon6 {
+  top: 45px;
+  left: 1560px;
+  width: 39px;
+  height: 39px;
+}
+.multimedia1 {
+  position: absolute;
+  top: 255px;
+  left: 655px;
+  font-size: var(--font-size-45xl);
+  line-height: 20px;
+  text-transform: uppercase;
+  font-weight: 800;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: right;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.5);
+}
+.mm-popup {
+  position: relative;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1721px;
+  height: 1440px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: justify;
+  font-size: var(--font-inherit);
+  color: var(--font-inherit);
+  font-family: var(--font-inherit);
+}

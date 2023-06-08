@@ -1,0 +1,82 @@
+.delete-1-icon,
+.image-15-icon {
+  position: absolute;
+  object-fit: cover;
+}
+.image-15-icon {
+  top: 0;
+  left: 0;
+  width: 1898px;
+  height: 530px;
+  opacity: 0.7;
+}
+.delete-1-icon {
+  top: 55px;
+  left: 1555px;
+  width: 39px;
+  height: 39px;
+}
+.teknik-bisnis-sepeda1 {
+  position: absolute;
+  top: 255px;
+  left: 367px;
+  line-height: 20px;
+  text-transform: uppercase;
+  font-weight: 800;
+  color: var(--color-white);
+  text-align: right;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.5);
+}
+.teknik-dan-bisnis {
+  position: absolute;
+  top: 623px;
+  left: 91px;
+  font-size: var(--font-size-xl);
+  line-height: 20px;
+  text-transform: capitalize;
+  display: flex;
+  align-items: center;
+  width: 1262px;
+}
+.kompetensi-keahlian-teknik {
+  margin: 0;
+}
+.mempersiapkan-peserta-didik {
+  margin-bottom: 0;
+}
+.mempersiapkan-peserta-didik-me {
+  margin: 0;
+  padding-left: var(--padding-8xl);
+}
+.kompetensi-keahlian-teknik-container1 {
+  line-break: anywhere;
+  width: 100%;
+}
+.kompetensi-keahlian-teknik-container {
+  position: absolute;
+  top: 848px;
+  left: 91px;
+  font-size: var(--font-inherit);
+  line-height: 20px;
+  text-transform: capitalize;
+  font-family: var(--font-inherit);
+  display: flex;
+  align-items: center;
+  width: 1172px;
+  height: 124px;
+}
+.tbsm-popup {
+  position: relative;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1721px;
+  height: 1440px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: justify;
+  font-size: var(--font-size-45xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

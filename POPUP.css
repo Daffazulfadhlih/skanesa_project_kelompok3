@@ -1,0 +1,505 @@
+.visi4 {
+  font-weight: 700;
+}
+.visi3 {
+  margin: 0;
+}
+.mewujudkan-tenaga-profesional3 {
+  font-weight: 300;
+}
+.menyelenggarakan-pembelajaran4 {
+  margin-bottom: 0;
+}
+.menyelenggarakan-pembelajaran3 {
+  margin: 0;
+  display: block;
+  padding-left: var(--padding-8xl);
+}
+.visi-mewujudkan-tenaga-container3 {
+  line-break: anywhere;
+  width: 100%;
+}
+.visi-mewujudkan-tenaga-container2 {
+  position: absolute;
+  top: 765px;
+  left: 69px;
+  line-height: 20px;
+  text-transform: capitalize;
+  display: flex;
+  align-items: center;
+  width: 1520px;
+}
+.delete-1-icon7,
+.image-11-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1721px;
+  height: 520px;
+  object-fit: cover;
+}
+.delete-1-icon7 {
+  top: 25px;
+  left: 1619px;
+  width: 39px;
+  height: 39px;
+}
+.teknik-komputer-dan3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 20px;
+  text-transform: uppercase;
+  font-weight: 800;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.5);
+}
+.header2 {
+  position: absolute;
+  top: 260px;
+  left: 300px;
+  width: 1122px;
+  height: 20px;
+  text-align: right;
+  font-size: var(--font-size-45xl);
+  color: var(--color-white);
+}
+.teknik-komputer-dan-container2 {
+  position: absolute;
+  top: 490px;
+  left: 69px;
+  font-size: var(--font-size-xl);
+  line-height: 20px;
+  text-transform: capitalize;
+  display: flex;
+  align-items: center;
+  width: 1325px;
+  height: 435px;
+}
+.tkj-popup1 {
+  position: absolute;
+  top: 3088px;
+  left: 0;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1721px;
+  height: 1440px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+}
+.delete-1-icon8,
+.image-15-icon1 {
+  position: absolute;
+  object-fit: cover;
+}
+.image-15-icon1 {
+  top: 0;
+  left: 0;
+  width: 1898px;
+  height: 530px;
+  opacity: 0.7;
+}
+.delete-1-icon8 {
+  top: 55px;
+  left: 1555px;
+  width: 39px;
+  height: 39px;
+}
+.teknik-bisnis-sepeda2 {
+  position: absolute;
+  top: 255px;
+  left: 367px;
+  line-height: 20px;
+  text-transform: uppercase;
+  font-weight: 800;
+  color: var(--color-white);
+  text-align: right;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.5);
+}
+.teknik-dan-bisnis1 {
+  position: absolute;
+  top: 623px;
+  left: 91px;
+  font-size: var(--font-size-xl);
+  line-height: 20px;
+  text-transform: capitalize;
+  display: flex;
+  align-items: center;
+  width: 1262px;
+}
+.mempersiapkan-peserta-didik-me1 {
+  margin: 0;
+  padding-left: var(--padding-8xl);
+}
+.kompetensi-keahlian-teknik-container2 {
+  position: absolute;
+  top: 848px;
+  left: 91px;
+  font-size: var(--font-inherit);
+  line-height: 20px;
+  text-transform: capitalize;
+  font-family: var(--font-inherit);
+  display: flex;
+  align-items: center;
+  width: 1172px;
+  height: 124px;
+}
+.tbsm-popup1 {
+  position: absolute;
+  top: 1544px;
+  left: -10px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1721px;
+  height: 1440px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  font-size: var(--font-size-45xl);
+}
+.program-keahlian-busana-container2 {
+  position: absolute;
+  top: 603px;
+  left: 132px;
+  line-height: 20px;
+  text-transform: capitalize;
+  display: flex;
+  align-items: center;
+  width: 1262px;
+}
+.delete-1-icon9,
+.image-18-icon1 {
+  position: absolute;
+  object-fit: cover;
+}
+.image-18-icon1 {
+  top: 4px;
+  left: 0;
+  width: 1898px;
+  height: 529px;
+  opacity: 0.7;
+}
+.delete-1-icon9 {
+  top: 52px;
+  left: 1580px;
+  width: 39px;
+  height: 39px;
+}
+.tata-busana2 {
+  position: absolute;
+  top: 259px;
+  left: 720px;
+  font-size: var(--font-size-45xl);
+  line-height: 20px;
+  text-transform: uppercase;
+  font-weight: 800;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: right;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.5);
+}
+.tabus-popup1 {
+  position: absolute;
+  top: 4589px;
+  left: 1767px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1721px;
+  height: 1440px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  font-family: var(--font-inherit);
+}
+.ekuitas3 {
+  text-decoration: underline;
+}
+.ekuitas2 {
+  color: inherit;
+}
+.akuntansi-adalah-suatu-container2 {
+  position: absolute;
+  top: 623px;
+  left: 110px;
+  line-height: 20px;
+  text-transform: capitalize;
+  display: flex;
+  align-items: center;
+  width: 1262px;
+}
+.delete-1-icon10,
+.image-19-icon1 {
+  position: absolute;
+  object-fit: cover;
+}
+.image-19-icon1 {
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 542px;
+  opacity: 0.7;
+}
+.delete-1-icon10 {
+  top: 36px;
+  left: 1552px;
+  width: 39px;
+  height: 39px;
+}
+.akuntansi2 {
+  position: absolute;
+  top: 251px;
+  left: 670px;
+  font-size: var(--font-size-45xl);
+  line-height: 20px;
+  text-transform: uppercase;
+  font-weight: 800;
+  color: var(--color-white);
+  text-align: right;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.5);
+}
+.akuntansi-popup1 {
+  position: absolute;
+  top: 4589px;
+  left: 0;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1721px;
+  height: 1440px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  font-size: var(--font-size-xl);
+  color: var(--font-inherit);
+}
+.menghasilkan-lulusan-smk-container2 {
+  position: absolute;
+  top: 623px;
+  left: 192px;
+  line-height: 20px;
+  text-transform: capitalize;
+  display: flex;
+  align-items: center;
+  width: 1262px;
+}
+.delete-1-icon11 {
+  position: absolute;
+  top: 57px;
+  left: 1541px;
+  width: 39px;
+  height: 39px;
+  object-fit: cover;
+}
+.perbankan-syariah2 {
+  position: absolute;
+  top: 245px;
+  left: 556px;
+  font-size: var(--font-size-45xl);
+  line-height: 20px;
+  text-transform: uppercase;
+  font-weight: 800;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: right;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.5);
+}
+.perbankan-popup1 {
+  position: absolute;
+  top: 0;
+  left: 1767px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1721px;
+  height: 1440px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  font-family: var(--font-inherit);
+}
+.multimedia-adalah-penggunaan-container2 {
+  position: absolute;
+  top: 623px;
+  left: 122px;
+  line-height: 20px;
+  text-transform: capitalize;
+  display: flex;
+  align-items: center;
+  width: 1262px;
+}
+.delete-1-icon12 {
+  position: absolute;
+  top: 45px;
+  left: 1560px;
+  width: 39px;
+  height: 39px;
+  object-fit: cover;
+}
+.multimedia2 {
+  position: absolute;
+  top: 255px;
+  left: 655px;
+  font-size: var(--font-size-45xl);
+  line-height: 20px;
+  text-transform: uppercase;
+  font-weight: 800;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: right;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.5);
+}
+.mm-popup1 {
+  position: absolute;
+  top: 1544px;
+  left: 1767px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1721px;
+  height: 1440px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  color: var(--font-inherit);
+  font-family: var(--font-inherit);
+}
+.teknik-kendaraan-ringan-container2 {
+  position: absolute;
+  top: 570px;
+  left: 81px;
+  line-height: 20px;
+  text-transform: capitalize;
+  display: flex;
+  align-items: center;
+  width: 1262px;
+  height: 226px;
+}
+.tujuan1 {
+  font-family: var(--font-inter);
+}
+.tujuan-kompetensi-keahlian-container2 {
+  position: absolute;
+  top: 837px;
+  left: 81px;
+  font-size: var(--font-inherit);
+  line-height: 20px;
+  text-transform: capitalize;
+  display: flex;
+  align-items: center;
+  width: 1307px;
+  height: 189px;
+}
+.image-12-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1913px;
+  height: 538px;
+  object-fit: cover;
+  opacity: 0.7;
+}
+.teknik-kendaraan-ringan6 {
+  position: absolute;
+  top: 265px;
+  left: 396px;
+  font-size: var(--font-size-45xl);
+  line-height: 20px;
+  text-transform: uppercase;
+  font-weight: 800;
+  color: var(--color-white);
+  text-align: right;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.5);
+}
+.delete-2-icon1 {
+  position: absolute;
+  top: 50px;
+  left: 1559px;
+  width: 39px;
+  height: 39px;
+  object-fit: cover;
+}
+.tkr-popup1 {
+  position: absolute;
+  top: 3088px;
+  left: 1767px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1721px;
+  height: 1440px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  font-size: var(--font-size-xl);
+}
+.delete-1-icon13,
+.image-4-icon1 {
+  position: absolute;
+  object-fit: cover;
+}
+.image-4-icon1 {
+  top: 0;
+  left: 0;
+  width: 1894.43px;
+  height: 530px;
+  opacity: 0.7;
+}
+.delete-1-icon13 {
+  top: 47px;
+  left: 1541px;
+  width: 39px;
+  height: 39px;
+}
+.teknik-permesinan2 {
+  position: absolute;
+  top: 265px;
+  left: 522px;
+  line-height: 20px;
+  text-transform: uppercase;
+  font-weight: 800;
+}
+.computer2 {
+  color: var(--font-inherit);
+}
+.teknik-pemesinan-adalah-container2 {
+  position: absolute;
+  top: 643px;
+  left: 89px;
+  font-size: var(--font-inherit);
+  line-height: 20px;
+  text-transform: capitalize;
+  font-family: var(--font-inherit);
+  color: var(--font-inherit);
+  text-align: justify;
+  display: flex;
+  align-items: center;
+  width: 1262px;
+}
+.tpm-popup1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1721px;
+  height: 1440px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: right;
+  font-size: var(--font-size-45xl);
+  color: var(--color-white);
+}
+.popup {
+  position: relative;
+  width: 100%;
+  height: 6029px;
+  text-align: justify;
+  font-size: var(--font-inherit);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

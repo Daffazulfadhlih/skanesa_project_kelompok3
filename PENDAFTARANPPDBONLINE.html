@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./PENDAFTARANPPDBONLINE.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,600;1,700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Roboto Slab:wght@700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;600;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Jaldi:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="pendaftaran-ppdb-online" data-animate-on-scroll>
+      <img class="delete-1-icon14" alt="" src="./public/delete-1@2x.png" />
+
+      <i class="login-kalau-sudah"
+        >*Login Kalau Sudah mendaftar Dan Mendapatkan Username & Password Dari
+        Sekolahan</i
+      >
+      <div class="send-button">
+        <div class="send-button-child"></div>
+        <b class="kirim">KIRIM</b>
+      </div>
+      <div class="upload-button">
+        <div class="button"></div>
+        <b class="text-upload">upload</b>
+      </div>
+      <div class="file-upload-data">
+        <div class="masukkan-dokumen-pendaftaran">
+          masukkan dokumen pendaftaran
+        </div>
+        <div class="form-pendaftaran-upload"></div>
+      </div>
+      <div class="nomor-telepon">
+        <div class="masukkan-dokumen-pendaftaran">no telepon</div>
+        <div class="form-nomor-telepon"></div>
+      </div>
+      <div class="asal-sekolah">
+        <div class="masukkan-dokumen-pendaftaran">asal sekolah</div>
+        <div class="form-asal-sekolah"></div>
+      </div>
+      <div class="tempat-tanggal-lahir">
+        <div class="masukkan-dokumen-pendaftaran">tempat tanggal lahir</div>
+        <div class="form-asal-sekolah"></div>
+      </div>
+      <div class="alamat">
+        <div class="masukkan-dokumen-pendaftaran">alamat</div>
+        <div class="form-alamat"></div>
+      </div>
+      <div class="jenis-kelamin">
+        <div class="masukkan-dokumen-pendaftaran">jenis Kelamin</div>
+        <div class="form-pl"></div>
+      </div>
+      <div class="nama-lengkap">
+        <div class="masukkan-dokumen-pendaftaran">Nama Lengkap</div>
+        <div class="form-nama-lengkap"></div>
+      </div>
+      <div class="text-header">
+        <p class="ppdb-online">ppdb online</p>
+        <p class="ppdb-online">jalur mandiri</p>
+        <p class="ppdb-online">smkn 1 sambeng</p>
+      </div>
+    </div>
+
+    <script>
+      var scrollAnimElements = document.querySelectorAll("[data-animate-on-scroll]");
+      var observer = new IntersectionObserver(
+        (entries) => {
+          for (const entry of entries) {
+            if (entry.isIntersecting || entry.intersectionRatio > 0) {
+              const targetElement = entry.target;
+              targetElement.classList.add("animate");
+              observer.unobserve(targetElement);
+            }
+          }
+        },
+        {
+          threshold: 0.15,
+        }
+      );
+      
+      for (let i = 0; i < scrollAnimElements.length; i++) {
+        observer.observe(scrollAnimElements[i]);
+      }
+      </script>
+  </body>
+</html>

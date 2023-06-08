@@ -1,0 +1,539 @@
+.jalan-raya-pasar1 {
+  position: absolute;
+  top: 184px;
+  left: 1358px;
+  line-height: 20px;
+  text-transform: capitalize;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 264px;
+}
+.kn1sambenggmailcom3 {
+  text-decoration: underline;
+}
+.kn1sambenggmailcom2 {
+  color: inherit;
+}
+.smkn1sambenggmailcom-txt1 {
+  line-break: anywhere;
+  width: 100%;
+}
+.div31,
+.smkn1sambenggmailcom1 {
+  position: absolute;
+  left: 1358px;
+  line-height: 20px;
+  text-transform: lowercase;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 305px;
+}
+.smkn1sambenggmailcom1 {
+  top: 287px;
+  color: var(--font-inherit);
+}
+.div31 {
+  top: 363px;
+}
+.mail-1-icon1,
+.phone-receiver-1-icon1 {
+  position: absolute;
+  top: 347px;
+  left: 1280px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.mail-1-icon1 {
+  top: 274px;
+}
+.hubungi-kami1,
+.tentang-sekolah1 {
+  font-size: var(--font-size-5xl);
+  line-height: 20px;
+  text-transform: capitalize;
+  font-weight: 800;
+}
+.tentang-sekolah1 {
+  position: absolute;
+  top: 88px;
+  left: 891px;
+}
+.hubungi-kami1 {
+  top: 92px;
+  left: 1280px;
+}
+.home2,
+.hubungi-kami1,
+.icon4 {
+  position: absolute;
+}
+.icon4 {
+  top: 105px;
+  left: 98px;
+  width: 477px;
+  height: 155px;
+  object-fit: cover;
+}
+.home2 {
+  top: 167px;
+  left: 897px;
+  line-height: 20px;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+.berita-terbaru2,
+.gallery3,
+.kompetensi-keahlian3,
+.ppdb3,
+.prestasi4,
+.smk-negeri-11,
+.visi-misi2 {
+  position: absolute;
+  top: 220px;
+  left: 897px;
+  line-height: 20px;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+.berita-terbaru2,
+.gallery3,
+.kompetensi-keahlian3,
+.ppdb3,
+.prestasi4,
+.smk-negeri-11 {
+  top: 273px;
+}
+.berita-terbaru2,
+.gallery3,
+.ppdb3,
+.prestasi4,
+.smk-negeri-11 {
+  top: 326px;
+  left: 894px;
+}
+.berita-terbaru2,
+.ppdb3,
+.prestasi4,
+.smk-negeri-11 {
+  top: 379px;
+  left: 897px;
+}
+.berita-terbaru2,
+.ppdb3,
+.smk-negeri-11 {
+  top: 485px;
+}
+.berita-terbaru2,
+.smk-negeri-11 {
+  top: 432px;
+}
+.smk-negeri-11 {
+  top: 249px;
+  left: 111px;
+  text-align: justify;
+  display: flex;
+  align-items: center;
+  width: 498px;
+  height: 239px;
+}
+.location-1-icon1 {
+  position: absolute;
+  top: 201px;
+  left: 1280px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.jalan-raya-pasar-legi-no-01-s-group {
+  position: absolute;
+  top: 2268px;
+  left: -2px;
+  background-color: var(--color-black);
+  width: 1898px;
+  height: 593px;
+  font-family: var(--font-inter);
+}
+.home3,
+.pseudo5 {
+  position: relative;
+}
+.home3 {
+  line-height: 25px;
+  display: flex;
+  align-items: center;
+  width: 32.48px;
+  height: 14px;
+  flex-shrink: 0;
+}
+.pseudo5 {
+  border-radius: var(--br-10xs-5);
+  background-color: var(--color-whitesmoke);
+  width: 5px;
+  height: 5px;
+}
+.prestasi5,
+.ulbreadcrumbs {
+  display: flex;
+  align-items: center;
+}
+.prestasi5 {
+  position: relative;
+  line-height: 25px;
+  width: 75.68px;
+  height: 14px;
+  flex-shrink: 0;
+}
+.ulbreadcrumbs {
+  position: absolute;
+  top: 374px;
+  left: 375px;
+  border-bottom: 1px solid var(--color-whitesmoke);
+  box-sizing: border-box;
+  width: 1170px;
+  height: 52.5px;
+  flex-direction: row;
+  padding: var(--padding-lg) 0;
+  justify-content: flex-start;
+  gap: var(--gap-sm);
+  font-family: var(--font-roboto);
+}
+.prestasi-smkn-1,
+.terbukti-lebih-maju {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.prestasi-smkn-1 {
+  top: 43px;
+  left: 301.02px;
+  line-height: 40px;
+  text-transform: uppercase;
+  width: 568.17px;
+  height: 39px;
+}
+.terbukti-lebih-maju {
+  top: 90px;
+  left: 506.31px;
+  font-size: var(--font-size-mini);
+  line-height: 30px;
+  font-family: var(--font-roboto);
+  color: var(--color-darkgray);
+  width: 157.57px;
+  height: 18px;
+}
+.spanline {
+  position: absolute;
+  bottom: 0;
+  left: 567.5px;
+  background-color: var(--color-darkslategray);
+  width: 35px;
+  height: 1px;
+}
+.divsc-heading {
+  position: absolute;
+  top: 392px;
+  left: 378px;
+  width: 1170px;
+  height: 133px;
+  text-align: center;
+  font-size: var(--font-size-11xl);
+  color: var(--color-darkslategray);
+}
+.image-37-icon {
+  position: absolute;
+  top: 110px;
+  left: 0;
+  width: 1898px;
+  height: 274px;
+  object-fit: cover;
+}
+.pseudo6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-darkorange-100);
+  width: 3px;
+  height: 54px;
+}
+.prestasi6 {
+  position: absolute;
+  top: -5px;
+  left: 25px;
+  line-height: 54px;
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+  width: 338.58px;
+  height: 63px;
+}
+.divtop-heading,
+.h1 {
+  position: absolute;
+  top: 237px;
+  left: 229px;
+  width: 1170px;
+  height: 54px;
+  font-size: var(--font-size-29xl);
+  color: var(--color-white);
+}
+.divtop-heading {
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 426.5px;
+  font-size: var(--font-size-xs);
+  color: var(--color-dimgray-100);
+  font-family: var(--font-roboto-slab);
+}
+.sectioncontent-area-child,
+.sectioncontent-area-inner,
+.sectioncontent-area-item {
+  position: absolute;
+  top: 620px;
+  left: 166px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  box-shadow: 5px 12px 10px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-chocolate);
+  box-sizing: border-box;
+  width: 1498px;
+  height: 373px;
+}
+.sectioncontent-area-inner,
+.sectioncontent-area-item {
+  top: 1033px;
+}
+.sectioncontent-area-inner {
+  top: 1446px;
+}
+.image-31-icon1 {
+  position: absolute;
+  top: 664px;
+  left: 207px;
+  border-radius: var(--br-11xl);
+  width: 492px;
+  height: 288px;
+  object-fit: cover;
+}
+.juara-3-piala-container2 {
+  top: 1527px;
+  left: 892px;
+  width: 792px;
+  height: 197px;
+}
+.juara-3-piala-container2,
+.juara-favorit-ke-4-container2,
+.penyerahan-bonus-juara-container2 {
+  position: absolute;
+  line-height: 20px;
+  text-transform: capitalize;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+}
+.penyerahan-bonus-juara-container2 {
+  top: 710px;
+  left: 816px;
+  color: inherit;
+  width: 944px;
+  height: 180px;
+  text-decoration: none;
+}
+.juara-favorit-ke-4-container2 {
+  top: 1134px;
+  left: 249px;
+  text-align: right;
+  width: 767px;
+  height: 156px;
+}
+.image-32-icon {
+  position: absolute;
+  top: 1060px;
+  left: 1116px;
+  border-radius: var(--br-11xl);
+  width: 489px;
+  height: 321px;
+  object-fit: cover;
+}
+.sectioncontent-area-child1 {
+  position: absolute;
+  top: 1859px;
+  left: 166px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  box-shadow: 5px 12px 10px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-chocolate);
+  box-sizing: border-box;
+  width: 1498px;
+  height: 373px;
+}
+.juara-1-fotografi {
+  margin: 0;
+}
+.juara-1-fotografi-container {
+  position: absolute;
+  top: 1960px;
+  left: 249px;
+  line-height: 20px;
+  text-transform: capitalize;
+  font-weight: 600;
+  text-align: right;
+  display: flex;
+  align-items: center;
+  width: 767px;
+  height: 156px;
+}
+.image-34-icon,
+.image-36-icon {
+  position: absolute;
+  top: 1886px;
+  left: 1116px;
+  border-radius: var(--br-11xl);
+  width: 489px;
+  height: 321px;
+  object-fit: cover;
+}
+.image-34-icon {
+  top: 1473px;
+  left: 225px;
+  width: 567px;
+  height: 314px;
+}
+.sectioncontent-area {
+  position: absolute;
+  top: -110px;
+  left: 0;
+  width: 1920px;
+  height: 1239px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+}
+.icon5 {
+  position: absolute;
+  top: -57px;
+  left: -1130.27px;
+  width: 477px;
+  height: 155px;
+  object-fit: cover;
+}
+.gallery4,
+.visi-misi3 {
+  position: absolute;
+  line-height: 30px;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.visi-misi3 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: -5px;
+  left: 66.73px;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-roboto);
+  color: var(--color-white);
+  text-align: right;
+  display: inline-block;
+}
+.gallery4 {
+  left: 335.73px;
+  width: 64px;
+}
+.gallery4,
+.ppdb4,
+.prestasi7 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 2px;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-roboto);
+  color: var(--color-white);
+  text-align: right;
+  display: flex;
+  align-items: center;
+  height: 16px;
+}
+.prestasi7 {
+  position: absolute;
+  left: 419.73px;
+  line-height: 30px;
+  text-transform: uppercase;
+  font-weight: 600;
+  width: 81px;
+}
+.ppdb4 {
+  left: 610.92px;
+  width: 36.29px;
+}
+.berita1,
+.ppdb4,
+.profil {
+  position: absolute;
+  line-height: 30px;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.berita1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 2px;
+  left: 520.73px;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-roboto);
+  color: var(--color-white);
+  text-align: right;
+  display: flex;
+  align-items: center;
+  width: 62px;
+  height: 16px;
+}
+.profil {
+  top: -5px;
+  left: 0;
+}
+.kompetensi-keahlian4,
+.nav-bar1 {
+  position: absolute;
+  text-align: right;
+  font-size: var(--font-size-sm);
+}
+.kompetensi-keahlian4 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: -5px;
+  left: 157.73px;
+  line-height: 30px;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-family: var(--font-roboto);
+  color: var(--color-white);
+  display: inline-block;
+}
+.nav-bar1 {
+  top: 74px;
+  left: 1162.27px;
+  width: 726.22px;
+  height: 20px;
+}
+.prestasi3 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 2861px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-roboto);
+}

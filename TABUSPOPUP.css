@@ -1,0 +1,70 @@
+.program-keahlian-busana {
+  margin: 0;
+}
+.menggambar-busana-fashion {
+  margin-bottom: 0;
+}
+.menggambar-busana-fashion-dra {
+  margin: 0;
+  padding-left: var(--padding-8xl);
+}
+.program-keahlian-busana-container1 {
+  line-break: anywhere;
+  width: 100%;
+}
+.program-keahlian-busana-container {
+  position: absolute;
+  top: 603px;
+  left: 132px;
+  line-height: 20px;
+  text-transform: capitalize;
+  display: flex;
+  align-items: center;
+  width: 1262px;
+}
+.delete-1-icon5,
+.image-18-icon {
+  position: absolute;
+  object-fit: cover;
+}
+.image-18-icon {
+  top: 4px;
+  left: 0;
+  width: 1898px;
+  height: 529px;
+  opacity: 0.7;
+}
+.delete-1-icon5 {
+  top: 52px;
+  left: 1580px;
+  width: 39px;
+  height: 39px;
+}
+.tata-busana1 {
+  position: absolute;
+  top: 259px;
+  left: 720px;
+  font-size: var(--font-size-45xl);
+  line-height: 20px;
+  text-transform: uppercase;
+  font-weight: 800;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: right;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.5);
+}
+.tabus-popup {
+  position: relative;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1721px;
+  height: 1440px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: justify;
+  font-size: var(--font-inherit);
+  color: var(--color-black);
+  font-family: var(--font-inherit);
+}

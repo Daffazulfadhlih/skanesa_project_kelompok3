@@ -1,0 +1,54 @@
+.image-38-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1898px;
+  height: 576px;
+  object-fit: cover;
+}
+.visi-smkn-1 {
+  position: absolute;
+  top: 257px;
+  left: 483px;
+  line-height: 20px;
+  text-transform: uppercase;
+  font-weight: 800;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.5);
+}
+.unggul-berlandaskan-imtaq {
+  margin: 0;
+}
+.smkn-1-sambeng-container5 {
+  line-break: anywhere;
+  width: 100%;
+}
+.smkn-1-sambeng-container4 {
+  position: absolute;
+  top: 497px;
+  left: 56px;
+  font-size: var(--font-size-9xl);
+  line-height: 20px;
+  text-transform: capitalize;
+  font-weight: 500;
+  color: var(--color-black);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  width: 1575px;
+  height: 371px;
+}
+.visi6 {
+  position: relative;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1687px;
+  height: 1050px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: right;
+  font-size: var(--font-size-45xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

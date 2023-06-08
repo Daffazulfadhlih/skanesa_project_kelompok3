@@ -1,0 +1,132 @@
+.kotak-login {
+  position: absolute;
+  top: 151px;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-linen);
+  width: 1448px;
+  height: 619px;
+}
+.form-password,
+.form-username,
+.login-button {
+  position: absolute;
+  left: 189px;
+  border-radius: var(--br-xl);
+  width: 1070px;
+  height: 76px;
+}
+.login-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-chocolate);
+  top: 625px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.form-password,
+.form-username {
+  border: 1px solid var(--color-saddlebrown);
+  background-color: var(--color-white);
+  top: 423px;
+  box-sizing: border-box;
+}
+.form-username {
+  top: 289px;
+}
+.login,
+.username {
+  position: absolute;
+  line-height: 20px;
+  text-transform: capitalize;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 233px;
+  height: 20px;
+}
+.username {
+  top: 259px;
+  left: 189px;
+  font-weight: 300;
+}
+.login {
+  top: 653px;
+  left: 607px;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+}
+.password {
+  top: 394px;
+  left: 189px;
+}
+.lupa-password,
+.password,
+.remember-me {
+  position: absolute;
+  line-height: 20px;
+  text-transform: capitalize;
+  display: flex;
+  font-weight: 300;
+  align-items: center;
+  justify-content: center;
+  width: 233px;
+  height: 20px;
+}
+.lupa-password {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 523px;
+  left: 1005px;
+  font-size: var(--font-size-9xl);
+  text-decoration: underline;
+  font-style: italic;
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: center;
+}
+.remember-me {
+  top: 579px;
+  left: 230px;
+}
+.check-list {
+  cursor: pointer;
+  position: absolute;
+  top: 568px;
+  left: 198px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 41px;
+  height: 41px;
+}
+.buletan-login,
+.icon-user {
+  position: absolute;
+  top: 0;
+  left: 611px;
+  height: 231px;
+}
+.buletan-login {
+  border-radius: 50%;
+  background-color: var(--color-linen);
+  width: 231px;
+}
+.icon-user {
+  width: 229px;
+  object-fit: cover;
+}
+.form-login {
+  position: relative;
+  width: 1448px;
+  height: 770px;
+  max-width: 90%;
+  max-height: 90%;
+  overflow: auto;
+  text-align: center;
+  font-size: var(--font-size-9xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
